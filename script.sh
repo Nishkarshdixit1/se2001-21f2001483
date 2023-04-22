@@ -1,2 +1,2 @@
-export GITHUB_USERNAME="NishkarshDixit"
+export GITHUB_USERNAME="Nishkarshdixit1"
 export GITHUB_REPOSITORY="se2001-21f2001483"
